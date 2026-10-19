@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>portfolio</title>
+</head>
+<a href="index.html">Home</a>
+</br>
+<a href="glitch.html">Glitch Art</a>
+</br>
+<a href="meme.html">Meme Mashup</a>
+</br>
+<a href="https://kaylee-g01.github.io/net.art/">NetArt</a>
+</br>
+<a href="minecraft.html">Minecraft Art</a>
+</br> 
+<a href="3dprint.html">Minecraft Art 3-D Print</a>
+<body>
+
+
+<h1>Minecraft Art</h1>
+<img src="nyanmine.png" alt="minecraft nyan cat">
+<p>For my sculpture, I selected Nyan Cat. I feel she is stable and has staying power in the meme community; she was a perfect mix of the cat-video era, new digital media, and the humor of the time.
+ It is also interesting that she bridged cultures, combining Western internet culture with Japanese Vocaloid. 
+It was a big treat getting to build her, as when I was young, she was my obsession and the fuel for my love of cats. </p>
+
+</body>
+</html>
